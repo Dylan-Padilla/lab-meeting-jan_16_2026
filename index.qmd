@@ -21,13 +21,13 @@ execute:
 ---
 
 
-# []{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+# []{style="font-family:Calibri;font-weight:normal;color:purple"} {background=''}
 
 <center>
 ![](imgs/Darwin.jpg){width=80%}
 </center>
 
-# [SNPs under selection?]{style="font-family:Comic Sans MS;font-weight:normal;color:purple;font-size:50px"} {background=''}
+# [SNPs under selection?]{style="font-family:Lato;font-weight:normal;color:purple;font-size:50px"} {background=''}
 
 <center>
 
@@ -35,7 +35,7 @@ execute:
 
 </center>
 
-# [Mechanisms of Evolution]{style="font-family:Comic Sans MS;font-weight:normal;color:purple;font-size:50px"} {background=''}
+# [Mechanisms of Evolution]{style="font-family:Lato;font-weight:normal;color:purple;font-size:50px"} {background=''}
 
 <br>
 
@@ -59,7 +59,7 @@ execute:
 
 ::::
 
-# [Mechanisms of Evolution]{style="font-family:Comic Sans MS;font-weight:normal;color:purple;font-size:50px"} {background=''}
+# [Mechanisms of Evolution]{style="font-family:Lato;font-weight:normal;color:purple;font-size:50px"} {background=''}
 
 <br>
 
@@ -94,7 +94,7 @@ execute:
 ![](imgs/effective-pop-size.png)
 
 
-# [What is demographic history?]{style="font-family:Comic Sans MS;font-weight:normal;color:purple;font-size:50px"} {background=''}
+# [What is demographic history?]{style="font-family:Lato;font-weight:normal;color:purple;font-size:50px"} {background=''}
 
 <br>
 
