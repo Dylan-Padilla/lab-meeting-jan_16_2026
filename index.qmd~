@@ -1,0 +1,143 @@
+---
+title: 'The demographic history of the wood frog <br> (project update)'
+institute: "<br>Yale School of the Environment<br>Yale Institute for Biospheric Studies<br>New Haven, Connecticut"
+format: 
+  revealjs:
+    chalkboard: true
+    incremental: true
+    logo: imgs/yale-logo.png
+    footer: "🔗 [https://dylanpadilla.netlify.app/](https://dylanpadilla.netlify.app/)"
+    slide-number: true
+    theme: [simple, assets/monash.scss]
+    show-slide-number: all
+    controls: true
+    width: 1280
+    height: 720
+    css: [assets/syntax-highlight.css, assets/custom.css, assets/pacman.css]
+    header-includes: |
+      <link rel="stylesheet" href="">
+execute:
+  echo: true
+---
+
+
+# []{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<center>
+![](imgs/Darwin.jpg){width=80%}
+</center>
+
+# [SNPs under selection?]{style="font-family:Comic Sans MS;font-weight:normal;color:purple;font-size:40px"} {background=''}
+
+<center>
+
+<img src = "imgs/exciting.gif" width=900px height=600px/>
+
+</center>
+
+# [Mechanisms of Evolution]{style="font-family:Comic Sans MS;font-weight:normal;color:purple;font-size:40px"} {background=''}
+
+
+::::{.columns}
+
+:::{.column width="50%"}
+
+
+![](imgs/mechanisms.jpeg)
+
+:::
+
+
+:::{.column width="50%"}
+
+
+:::
+
+::::
+
+# [Mechanisms of Evolution]{style="font-family:Comic Sans MS;font-weight:normal;color:purple;font-size:40px"} {background=''}
+
+
+::::{.columns}
+
+:::{.column width="50%"}
+
+
+![](imgs/mechanisms.jpeg)
+
+:::
+
+
+:::{.column width="50%"}
+
+
+<center>
+<br>
+<img src = "imgs/pop-gen-environment.png"  width = "450" height = "430">
+</center>
+
+
+:::
+
+::::
+
+
+#
+
+![](imgs/effective-pop-size.png)
+
+
+# [What is demographic history?]{style="font-family:Comic Sans MS;font-weight:normal;color:purple;font-size:40px"} {background=''}
+
+<br><br>
+
+In population genetics, demographic history refers to reconstructing a population's past changes in *size*, structure, and migration patterns using genetic data, revealing events like expansions, contractions, bottlenecks, or gene flow that shape current genetic diversity and evolutionary forces like selection
+
+
+#
+
+<center>
+<img src = "imgs/admixture-map.png" width=870px height=870px />
+</center>
+
+#
+
+<center>
+<img src = "imgs/aRanSyl_structure.png" width=750px height=750px />
+</center>
+
+#
+
+<br>
+<center>
+<img src = "imgs/Pops_Fst.png" width=750px height=750px />
+</center>
+
+
+#
+
+<center>
+<img src = "imgs/aRanSyl_adaptive_snps.png" width=750px height=750px />
+</center>
+
+
+#
+
+<center>
+<img src = "imgs/GO.png" width=750px height=750px />
+</center>
+
+
+#
+
+<center>
+<img src = "imgs/Ne_GO.png" width=750px height=750px />
+</center>
+
+
+#
+
+<center>
+<img src = "imgs/demo_model.png" width=1900px height=350px />
+</center>
+
