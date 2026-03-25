@@ -115,23 +115,8 @@ In population genetics, demographic history refers to reconstructing a populatio
 
 #
 
-<br>
 <center>
-<img src = "imgs/Pops_Fst.png" width=750px height=750px />
-</center>
-
-
-#
-
-<center>
-<img src = "imgs/aRanSyl_adaptive_snps.png" width=750px height=750px />
-</center>
-
-
-#
-
-<center>
-<img src = "imgs/GO.png" width=720px height=720px />
+<img src = "imgs/demo_model.png" width=720px height=720px />
 </center>
 
 
@@ -145,5 +130,5 @@ In population genetics, demographic history refers to reconstructing a populatio
 #
 
 <center>
-<img src = "imgs/demo_model.png" width=1200px height=300px />
+<img src = "imgs/aRanSyl_adaptive_snps.png" width=720px height=720px />
 </center>
